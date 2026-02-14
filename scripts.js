@@ -1,5 +1,7 @@
 
 
+
+
 const modal = document.getElementById("modal");
 const modalImg = document.getElementById("modalImg");
 const closeBtn = document.getElementById("closeBtn");
